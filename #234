@@ -1,0 +1,77 @@
+### Proposal #234  https://kusama.subsquare.io/referenda/referendum/234
+
+#234 starts passing on 27th July with several large wallets voting aye with x4 & x5 conviction
+
+![alt text](https://i.imgur.com/sHS6Wyo.png)
+![alt text](https://i.imgur.com/z2Gfemj.png)
+
+Towards the end, these wallets switched to 0.1 conviction, causing #234 to fail on (46.4% Aye | 53.6% Nay). The same wallets also voted against #243 with high conviction before lowering it & removing some votes 1 day after initially voting. 
+
+---
+
+`DKPTcrQCX4op7MbBGTDUGtRJ1VHnPWqr1CSqUMr8bz17hZE` sends funds to the following (4 of the 6 proxies here:  <https://kusama.subscan.io/proxied_account?address=Gw4ZRMFTxGvZ2fQLyuiWTAm4Jk7XQxGND2UHNf6GKLJ495c>) 
+- `FUFgDE24fyYqW4jiQ87tzjK2zBBSixvXhyjgegQCjuyfJja` <https://kusama.subscan.io/extrinsic/17031124-2>
+- `G77MNUM4sHzZdhmbQrnoEjFbgKgoAdsbPpFGNpmQXtbxRjH` <https://kusama.subscan.io/extrinsic/15875701-4>
+- `DREQKFXhEa7UxRqwkih4xHUEcg2B1eDLe4nKzfwaNbwf9pZ` <https://kusama.subscan.io/extrinsic/16042767-2>
+- `FS32DgoVLooSr6DzBLqjZmw33PWXhiDJWdr11krthLxKiaf` <https://kusama.subscan.io/extrinsic/15828456-2>
+    
+This address also sends a total of 24.1KSM to para:2023 (`F7fq1jSB3w59f8vMShxvP5eSu3wCJbL5Am5MQ6vP6VzYLWD`)
+
+![alt text](https://i.imgur.com/PyhdaCJ.png)
+`FAgkaowANspp1iVE7e45UxEnQ2Lwkx5dhCLrFwc1fNYXX9G`  
+`H1ppdYkSVT89FRMHiKp6MSxERbi9WQnzSQ9NZ1yy6NBvCKB` - Used below.  
+`HRbyrkQnYCf4srZccVajn6p2zgXPLPscYyiBg7C3HLXnL8Z`  
+`Cg9jUFQfsdSSRnz1mxr7jvbujE1bsvVNMrC846Grd83LzSW`  
+`EtunxUVo3dLtc96kZf1C4ENd5yzP9DfXG6oW4yuBTCxeS7t`  
+`D6GxMVnuEdKi1ce7WKcFZC1WWEUk6Q7LnW75jtZ8QhvTQt7`  
+`J9Q5PgSVX9dkpyvgp51pedCw5aV3Zt13JshjeEd8vophRLm`  
+`HhA7JTaBqpv7vSzNVJ5bgiMYZXh2sC3K511apYBm2ZkgHgx`  
+`DDZ8jAMAscud4SZzUNXsogJEynucssyndVFnHTHRnoWtsMq`  
+`DJNNdAYUCVeqX8PmkmxntVNzndaBCRTAhddW2Wpm8T4mFCU`  
+`FWxeMw422NCxP4sqsTFmDyusKad2dixRPj8g6aThcpLyoF3`  
+`CbbMYkxKH5Gx8wMJR8Hk3r6ZMJiuhPx2dFnLLN7itYsb4US`   
+`Fi4K6PTVy4TcSnTt8XxNHn4PqY14GGq5gKFAys92i9W8fvT`  
+`EhiPySxDkLUzh7iuwTjJ8wg6MZPi3PsQZ1ZKs3yMRXTy37D`  
+`JCGBKqSQTRLUsrttGqNhwrxJQE3Uhy7oGArsMWPMS2XF34h`  
+`HxkAHrdp6nAoSMxNyNjxHcCx1rKoVV7BQ72sVVRM7rGY8nQ`  
+`DTG1KV71o5wuRwJ8AdLAfDKncugjsFy3LrCZEgZPQisJTat`  
+`EM6MTd1omU1vivgfYyxrePydg7s5UnWPykjDZQxq2dmbUpR`  
+`G4LVJ7m5qQMLToJHqB8KEaQhHf8b2QsZ58L1Df6AzUpewgL`  
+`Eoxcja2u5eaAqkuLySMYWDrLqBzPy4qj8cogfv1vwZmzPUw`  
+`D17JBWU6vAsp45gfRDJHoCJZURsc177Mm6NNzm4PDceHgY8`  
+`G89MSm8H566QdVgZMEmsxQw1xp8WGssczZHPq6ua4sWeMbx`  
+
+---
+
+### H1ppd
+
+If we look at one of the addresses that sends KSM to DKPT; `H1ppdYkSVT89FRMHiKp6MSxERbi9WQnzSQ9NZ1yy6NBvCKB`
+It sends small amounts of KSM to 4 of the 6 proxies in the URL above.
+- `FUFgDE24fyYqW4jiQ87tzjK2zBBSixvXhyjgegQCjuyfJja` <https://kusama.subscan.io/extrinsic/18630575-5?event=18630575-148>
+- `HiguaAvCgFZFrvbf8fpTfMBg95QEyLbyLVzpkLYkyuBW4sx` <https://kusama.subscan.io/extrinsic/18731222-7?event=18731222-175>
+- `G77MNUM4sHzZdhmbQrnoEjFbgKgoAdsbPpFGNpmQXtbxRjH` <https://kusama.subscan.io/extrinsic/18946782-14>
+- `FS32DgoVLooSr6DzBLqjZmw33PWXhiDJWdr11krthLxKiaf` <https://kusama.subscan.io/extrinsic/18845952-6?event=18845952-71>
+
+![alt text](https://i.imgur.com/sVgTNBN.png)
+
+---
+
+`H1ppdY` receives some KSM from `Gk63x35M5hLDTMdmW8GXoY1jzoHWyQ4WSZBcBUiRAemvvum` (846 days ago):   
+<https://kusama.subscan.io/transfer?address=H1ppdYkSVT89FRMHiKp6MSxERbi9WQnzSQ9NZ1yy6NBvCKB&startDate=&endDate=&startBlock=&endBlock=&timeType=date&direction=received&result=all&minAmount=&maxAmount=&currency=usd>
+
+If we look at `Gk63x35M5hLDTMdmW8GXoY1jzoHWyQ4WSZBcBUiRAemvvum`, it's last set of transactions were around 846 days ago to `H1ppdY` and also `P2P.ORG`  
+<https://kusama.subscan.io/account/Gk63x35M5hLDTMdmW8GXoY1jzoHWyQ4WSZBcBUiRAemvvum?tab=transfer>  
+- transfer to `P2P.ORG` <https://kusama.subscan.io/extrinsic/6818238-5>  
+- transfer to `H1ppdY`  <https://kusama.subscan.io/extrinsic/6860760-3>  
+
+
+Lets see who funds to `Gk63x35M`
+<https://kusama.subscan.io/transfer?address=Gk63x35M5hLDTMdmW8GXoY1jzoHWyQ4WSZBcBUiRAemvvum&startDate=&endDate=&startBlock=&endBlock=&timeType=date&direction=all&page=12&result=all&minAmount=&maxAmount=&currency=usd&afterId>  
+- `FRxUUjsCZsFmPW655c4huRhnBoy1x67GhhdSWMwHgSs6Tv1` funds `Gk63x35M` 876 days ago <https://kusama.subscan.io/extrinsic/6443653-1>
+
+
+Lets check out `FRxUUj`
+<https://kusama.subscan.io/transfer?address=FRxUUjsCZsFmPW655c4huRhnBoy1x67GhhdSWMwHgSs6Tv1&startDate=&endDate=&startBlock=&endBlock=&timeType=date&direction=all&page=2&result=all&minAmount=&maxAmount=&currency=usd&afterId>
+
+`FRxUUj` received 26 KSM from `G7VvPdEMhFkNmuaLor6DA4D7Z3KRYj26eBDCF2xDS7VWAdN` P2P.ORG (881 days ago)
+
